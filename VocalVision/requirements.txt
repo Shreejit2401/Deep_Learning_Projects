@@ -1,0 +1,29 @@
+# Core Python Libraries
+numpy
+pandas
+matplotlib
+tqdm
+Pillow
+
+# PyTorch and Vision
+torch
+torchvision
+timm
+
+# NLP and Evaluation
+nltk
+rouge-score
+deep-translator
+
+# Text-to-Speech and Display (for notebooks or TTS output)
+gTTS
+ipython
+
+# Optional: pin specific versions (recommended for reproducibility)
+# torch==2.1.0
+# torchvision==0.16.0
+# timm==0.9.2
+# nltk==3.8.1
+# gTTS==2.5.4
+# rouge-score==0.1.2
+# deep-translator==1.11.4
